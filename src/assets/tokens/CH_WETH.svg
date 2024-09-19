@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chETH</title>
+    <defs>
+        <polygon id="path-1" points="0 0 217.395712 0 217.395712 256 0 256"></polygon>
+        <polygon id="path-3" points="0 0 41.8689046 0 41.8689046 164.461214 0 164.461214"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chETH">
+            <g id="Group-7">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M206.782131,209.069377 C162.614696,252.009708 91.7589768,251.638182 48.062506,207.940726 C3.9841976,163.861424 3.9841976,92.1400294 48.062506,48.0607277 C90.7438707,5.37840098 159.343277,4.02645934 203.667387,44.0039646 L214.290351,33.3807618 C164.100766,-12.4417097 85.9835673,-11.0907062 37.4479862,37.4459687 C-12.4826621,87.3777423 -12.4826621,168.623712 37.4479862,218.555485 C86.9977352,268.106351 167.375937,268.475062 217.395712,219.683198 L206.782131,209.069377 Z" id="Fill-1" fill="#BB643F" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(214.128140, 44.128369)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M0,10.6429049 C34.8898157,51.6195897 35.7932789,111.801164 2.71883314,153.777028 L13.4027779,164.461214 C52.257324,116.544687 51.3360355,46.8873249 10.6436032,0 L0,10.6429049 Z" id="Fill-4" fill="#DCAA93" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+            <g transform="translate(23.000000, 23.000000)" fill-rule="nonzero">
+                <path d="M105,0 C162.99523,0 210,47.0142201 210,105 C210,162.99523 162.99523,210 105,210 C47.0142201,210 0,162.990505 0,105 C0,47.0142201 47.0142201,0 105,0 Z" id="Path" fill="#627EEA"></path>
+                <g id="ethereum-eth-logo-(1)" transform="translate(49.304348, 13.695652)">
+                    <polygon id="Path" fill="#C1CCF7" points="56.048624 0 54.823494 4.16143914 54.823494 124.906075 56.048624 126.128346 112.095818 92.9983723"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="56.048624 0 0 92.9983723 56.048624 126.128346 56.048624 67.5222449"></polygon>
+                    <polygon id="Path" fill="#C1CCF7" points="56.048624 136.739944 55.3581482 137.581953 55.3581482 180.593021 56.048624 182.608696 112.130128 103.627125"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" points="56.048624 182.608696 56.048624 136.739944 0 103.627125"></polygon>
+                    <polygon id="Path" fill="#8198EE" points="56.048624 126.128346 112.095818 92.9983723 56.048624 67.5222449"></polygon>
+                    <polygon id="Path" fill="#C1CCF7" points="0 92.9983723 56.048624 126.128346 56.048624 67.5222449"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

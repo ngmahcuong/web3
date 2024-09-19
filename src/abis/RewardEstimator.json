@@ -1,0 +1,28 @@
+[
+  {
+    "inputs": [{ "internalType": "address", "name": "_controller", "type": "address" }],
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "constant": true,
+    "inputs": [{ "internalType": "address", "name": "holder", "type": "address" }],
+    "name": "calculateReward",
+    "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "constant": true,
+    "inputs": [],
+    "name": "controller_",
+    "outputs": [
+      { "internalType": "contract RewardControllerInterface", "name": "", "type": "address" }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
